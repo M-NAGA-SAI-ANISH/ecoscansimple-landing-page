@@ -33,7 +33,7 @@
                     <a href="#" class="btn btn-secondary">Watch a Demo Video</a>
                 </div>
             </div>
-            <img src="[Path/to/App-Mockup-Image.png]" alt="EcoScan Simple App Mockup with AR Scan" class="hero-mockup">
+            <img src="app-mockup.jpg" alt="EcoScan Simple App Mockup with AR Scan" class="hero-mockup">
         </div>
     </section>
 
